@@ -10,4 +10,4 @@
 
 <img src="https://github.com/user-attachments/assets/0632e90c-eca0-429b-a541-ccae38388580" alt="ys4hflower" autoplay loop>
 
-✨ Fique à vontade para contribuir com melhorias ou novas ideias para o projeto e não se esqueça de dar uma ⭐ no repositório.
+✨ Esse é só um projetinho de brincadeira, então sinta-se à vontade para explorar ou alterar o código como quiser! E se achar legal, deixa uma ⭐ no repositório.
