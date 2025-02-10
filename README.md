@@ -2,7 +2,7 @@
 
 🌸 **Flower Motion** é um projetinho para testar meu HTML e CSS, com uma flor que se move suavemente usando animações no frontend.          
 ✨ Esse é só um projetinho de brincadeira, então sinta-se à vontade para explorar ou alterar o código como quiser!                  
-⭐ E se achar legal, deixa uma estrela no repositório!
+⭐ E se achar legal, deixa uma estrela no repositório! 
 
 ## 🚀 Como acessar o projeto?
 
